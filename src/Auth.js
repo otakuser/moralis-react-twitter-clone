@@ -67,7 +67,7 @@ export const Auth = () => {
         </Alert>
       )}
       <Button isLoading={isAuthenticating} onClick={() => authenticate()}>
-        Authenticate via Metamask
+        Logear por Metamask
       </Button>
       <Text textAlign="center">
         <em>or</em>

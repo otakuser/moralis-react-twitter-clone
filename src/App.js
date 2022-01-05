@@ -17,7 +17,7 @@ function App() {
 
   return (
     <Container>
-      <Heading mb={6}>Web under construction</Heading>
+      <Heading mb={6}>Coming soon</Heading>
       <Auth />
     </Container>
   );
