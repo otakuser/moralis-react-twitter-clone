@@ -9,7 +9,7 @@ function App() {
   if (isAuthenticated) {
     return (
       <Container>
-        <Heading>Welcome to the Twitter clone</Heading>
+        <Heading>Web under construction</Heading>
         <Button onClick={() => logout()}>Logout</Button>
       </Container>
     );
@@ -17,7 +17,7 @@ function App() {
 
   return (
     <Container>
-      <Heading mb={6}>Welcome to the Twitter clone</Heading>
+      <Heading mb={6}>Web under construction</Heading>
       <Auth />
     </Container>
   );
